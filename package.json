@@ -1,0 +1,20 @@
+{
+  "name": "adjacentelementsproduct",
+  "version": "1.0.0",
+  "description": "Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/adjacentElementsProduct.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/adjacentElementsProduct/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/adjacentElementsProduct#readme"
+}

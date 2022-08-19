@@ -15,3 +15,8 @@ module.exports = solution;
 // npm i jest-cli -g
 // package.json: "scripts": { "test": "jest" }
 // npm test checkElementsProduct
+
+// alternative solution
+// function solution(inputArray) {
+//    return Math.max(...inputArray.slice(0, -1).map((x, i) => x * inputArray[i + 1]));
+// }
